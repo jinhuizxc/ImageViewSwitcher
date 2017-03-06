@@ -9,6 +9,9 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ImageView;
 
+/**
+ * 测试提交项，修改后再次提交。
+ */
 public class PicActivity extends Activity implements OnClickListener {
 
 
