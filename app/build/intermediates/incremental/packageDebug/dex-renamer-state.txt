@@ -1,0 +1,4 @@
+#Mon Mar 06 19:26:39 CST 2017
+base.0=D\:\\workspace-studio\\ImageViewSwitcher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\workspace-studio\\ImageViewSwitcher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

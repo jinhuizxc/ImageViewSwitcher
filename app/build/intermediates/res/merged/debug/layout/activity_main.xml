@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.imageview.PicActivity" 
+    android:orientation="vertical"
+    >
+<!-- 按照建议操作Use a layout_height of 0dp instead of match_parent for better performance -->
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:src="@drawable/a" 
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button 
+            android:id="@+id/pre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="上一张"
+            />
+        <View 
+            android:layout_height="0dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            />
+        
+        <Button 
+            android:id="@+id/next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="下一张"
+            
+            />
+    </LinearLayout>
+
+</LinearLayout>
