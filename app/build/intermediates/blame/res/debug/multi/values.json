@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\workspace-studio\\ImageViewSwitcher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\jinhui\\Desktop\\ImageViewSwitcher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "D:\\workspace-studio\\ImageViewSwitcher\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\jinhui\\Desktop\\ImageViewSwitcher\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "D:\\workspace-studio\\ImageViewSwitcher\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\jinhui\\Desktop\\ImageViewSwitcher\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,13 +49,13 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "D:\\workspace-studio\\ImageViewSwitcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\jinhui\\Desktop\\ImageViewSwitcher\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 173,
+                        "startOffset": 174,
                         "endColumn": 52,
-                        "endOffset": 221
+                        "endOffset": 222
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 277
                 },
                 "from": {
-                    "file": "D:\\workspace-studio\\ImageViewSwitcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\jinhui\\Desktop\\ImageViewSwitcher\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 58,
+                        "startOffset": 59,
                         "endColumn": 59,
-                        "endOffset": 113
+                        "endOffset": 114
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 330
                 },
                 "from": {
-                    "file": "D:\\workspace-studio\\ImageViewSwitcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\jinhui\\Desktop\\ImageViewSwitcher\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 119,
+                        "startOffset": 120,
                         "endColumn": 52,
-                        "endOffset": 167
+                        "endOffset": 168
                     }
                 }
             },
@@ -107,14 +107,14 @@
                     "endOffset": 621
                 },
                 "from": {
-                    "file": "D:\\workspace-studio\\ImageViewSwitcher\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\jinhui\\Desktop\\ImageViewSwitcher\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 191,
+                        "startOffset": 192,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 481
+                        "endOffset": 484
                     }
                 }
             },
@@ -128,14 +128,14 @@
                     "endOffset": 781
                 },
                 "from": {
-                    "file": "D:\\workspace-studio\\ImageViewSwitcher\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\jinhui\\Desktop\\ImageViewSwitcher\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 522,
+                        "startOffset": 525,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 679
+                        "endOffset": 682
                     }
                 }
             }

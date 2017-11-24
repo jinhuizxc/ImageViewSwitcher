@@ -1,4 +1,7 @@
-#Mon Mar 06 19:26:39 CST 2017
-base.0=D\:\\workspace-studio\\ImageViewSwitcher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Fri Nov 24 11:13:19 CST 2017
+base.0=C\:\\Users\\jinhui\\Desktop\\ImageViewSwitcher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_81c92f9368d87d817c84dbbd9666e86876967845
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=D\:\\workspace-studio\\ImageViewSwitcher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=C\:\\Users\\jinhui\\Desktop\\ImageViewSwitcher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_49333c165f46a9ffb0f9db02bd60c6648e13fb79\\classes.dex
+base.1=C\:\\Users\\jinhui\\Desktop\\ImageViewSwitcher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_49333c165f46a9ffb0f9db02bd60c6648e13fb79
+file.0=C\:\\Users\\jinhui\\Desktop\\ImageViewSwitcher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_81c92f9368d87d817c84dbbd9666e86876967845\\classes.dex
